@@ -1,0 +1,4 @@
+[core]
+    remote = test
+['remote "test"']
+    url = s3://dvc-test-vunt93/test
